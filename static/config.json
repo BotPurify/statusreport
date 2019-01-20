@@ -2,9 +2,9 @@
   "title": "Purify Bot Status",
   "name": "Status",
   "link": "http://purifystatus",
-  "repo": "BotPurify/statusreport",
+  "repo": "PurifyBot/statusreport",
   "owner": "PurifyBot",
-  "statusRepo": "BotPurify/statusreport",
+  "statusRepo": "PurifyBot/statusreport",
   "services": ["API", "Website", "Parser"],
   "statuses": {
     "operational": "#2ecc71",
